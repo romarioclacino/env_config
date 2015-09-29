@@ -1,0 +1,24 @@
+{
+  "auto_complete_commit_on_tab": true,
+  "bold_folder_labels": true,
+  "drag_text": true,
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "font_face": "Menlo",
+  "font_size": 15,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "new_window_settings":
+  {
+    "show_minimap": false
+  },
+  "rulers":
+  [
+    80
+  ],
+  "save_on_focus_lost": false,
+  "show_full_path": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
